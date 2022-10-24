@@ -1,0 +1,8 @@
+Package: Counter
+Version: 1.0
+Architecture: all
+Essential: no
+Priority: optional
+Depends: 
+Maintainer: Ilan Shavit
+Description: Kernelios counter
